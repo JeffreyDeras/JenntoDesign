@@ -98,13 +98,13 @@ html{
 
 /*--Home --- inicio */
 
-.home{
+.home {
     display: flex;
-    background-image:url(/img/wallpaperflare.jpg);
     height:100vh;
     color: #fff;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
+    background-image: url(/img/wallpaperflare.jpg);
 }
 
 .home .max-width{
@@ -113,20 +113,31 @@ html{
 
 .home .home-content .text-1{
     font-size: 27px;
+    font-weight: 800;
+    color: #e7e7e7;
+    font-family: Arial;
+    text-decoration: underline;
+    font-style: oblique;
+   
 }
 .home .home-content .text-2{
     font-size: 75px;
     font-weight: 500;
+    font-style: oblique;
     margin-left: -3px;
+    color: #fcfcfc;
+    text-decoration: solid ;
 }
 .home .home-content .text-3{
     font-size: 40px;
+    font-style: oblique;
     margin: 5px 0;
 }
 
 .home .home-content .text-3 span{
     color: #f5f3f3;
     font-weight: 950;
+    font-style: oblique;
 }
 
 .home .home-content a{
