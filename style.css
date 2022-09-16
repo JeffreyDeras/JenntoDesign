@@ -104,7 +104,7 @@ html{
     color: #fff;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
-    background-image: url(/img/wallpaperflare.jpg);
+    background: url(img/wallpaperflare.jpg) no-repeat;
 }
 
 .home .max-width{
