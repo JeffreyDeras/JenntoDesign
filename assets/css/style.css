@@ -100,7 +100,7 @@ html{
 
 .home{
     display: flex;
-    background:url(/img/wallpaperflare.jpg) no-repeat center;
+    background-image:url(/img/wallpaperflare.jpg);
     height:100vh;
     color: #fff;
     min-height: 500px;
